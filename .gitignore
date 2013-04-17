@@ -1,0 +1,11 @@
+# SparkFun libraries
+SFE*
+
+# Adafruit libraries
+Adafruit*
+
+# SdFat
+SdFat
+SdFatUtil
+
+# Other uninteresting files
